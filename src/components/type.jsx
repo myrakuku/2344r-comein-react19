@@ -11,7 +11,7 @@ import MSI from './image/Brand_logo/MSI-Logo-present.jpg';
 import Dell from './image/Brand_logo/DELL-Logo.png';
 // Brand Logo (Second)
 import Google from './image/Brand_logo/Google-Logo.png';
-import Microsoft from './image/Brand_logo/Microsoft-logo.png';
+import Microsoft from './image/Brand_logo/Microsoft-logo.jpg';
 import Sony from './image/Brand_logo/SONY-Logo.png';
 import acer from './image/Brand_logo/acer-logo.png';
 import panasonic from './image/Brand_logo/panasonic-logo.webp';
