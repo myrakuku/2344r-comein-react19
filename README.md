@@ -1,6 +1,6 @@
 ## Google Tag Manager
     - Added GTM not AW 
-    - Track Whatsapp button (not yet)
+    - Track Whatsapp button
 
 
 ## React install
