@@ -37,7 +37,7 @@ export const Process = () => {
                             <br /><br />如Macbook取得規格方式：
                             <br />路徑：屏幕左上方Apple Logo 「關於本機」並截圖
                             <div className='py-3'>
-                            <img src={Macbook} width={0} height={0} sizes="100vw" alt={""} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
+                            <img src={Macbook} width={0} height={0} sizes="100vw" alt={"MAC教學"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ export const Process = () => {
                             <br />或左鍵點選「內容」查看「儲存空間」
                             <br />或透過：右鍵點選「內容」 {'>'}  「裝置管理員」 {'>'}  「顯示卡」以確認GPU型號
                             <div className='pt-3'>
-                            <img src={Window} width={0} height={0} sizes="100vw" alt={""} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
+                            <img src={Window} width={0} height={0} sizes="100vw" alt={"WINDOW教學"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
                             </div>
                         </div>
                     </div>    

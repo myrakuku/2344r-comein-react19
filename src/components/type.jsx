@@ -40,18 +40,18 @@ export const Type = () => {
                 我們所接受的品牌於下面列出，數量繁多恕無法逐項列出，歡迎向我們查詢更多！
                 </p>
                 <div style={{ maxWidth: '80%', margin: '0 auto', textAlign: 'center' }} className="flex flex-wrap gap-5 justify-center overflow-x-auto">
-                    <img src={Apple} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Asus} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Dell} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Google} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Lenovo} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={MSI} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Microsoft} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Razer} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Samsung} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={Sony} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={acer} style={{ width: 'auto', height: '50px' }} alt="" />
-                    <img src={panasonic} style={{ width: 'auto', height: '50px' }} alt="" />
+                    <img src={Apple} style={{ width: 'auto', height: '50px' }} alt="二手回收Apple" />
+                    <img src={Asus} style={{ width: 'auto', height: '50px' }} alt="二手回收Asus" />
+                    <img src={Dell} style={{ width: 'auto', height: '50px' }} alt="二手回收Dell" />
+                    <img src={Google} style={{ width: 'auto', height: '50px' }} alt="二手回收Google" />
+                    <img src={Lenovo} style={{ width: 'auto', height: '50px' }} alt="二手回收Lenovo" />
+                    <img src={MSI} style={{ width: 'auto', height: '50px' }} alt="二手回收MSI" />
+                    <img src={Microsoft} style={{ width: 'auto', height: '50px' }} alt="二手回收Microsoft" />
+                    <img src={Razer} style={{ width: 'auto', height: '50px' }} alt="二手回收Razer" />
+                    <img src={Samsung} style={{ width: 'auto', height: '50px' }} alt="二手回收Samsung" />
+                    <img src={Sony} style={{ width: 'auto', height: '50px' }} alt="二手回收Sony" />
+                    <img src={acer} style={{ width: 'auto', height: '50px' }} alt="二手回收acer" />
+                    <img src={panasonic} style={{ width: 'auto', height: '50px' }} alt="二手回收panasonic" />
                 </div>
             </div>
             {/* 1 - Apple */}
@@ -62,7 +62,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/Apple" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={AppleC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={AppleC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收iPhone 手機、iPad 平板電腦、Mac 電腦、Apple Watch 智慧手錶、AirPods 耳機以及 Apple Vision Pro 虛擬實境頭戴設備等電子產品" />
                 </div>
             </div>
             {/* 2 - Lenovo */}
@@ -73,7 +73,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/Lenovo" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={LenovoC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={LenovoC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收ThinkPad系列、IdeaPad系列、Legion系列、Yoga系列等電子產品" />
                 </div>
             </div>
             {/* 3 - Samsung */}
@@ -84,7 +84,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/Samsung" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={SamsungC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={SamsungC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收Galaxybook系列 Galaxybook Pro, Galaxybook AI, Galaxybook Ultra、Galaxy Tab平板系列等電子產品" />
                 </div>
             </div>
             {/* 4 - RAZER */}
@@ -95,7 +95,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/Razer" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={RazerC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={RazerC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收RAZER Blade 14, Blade 16, Blade 18 等電子產品" />
                 </div>
             </div>
             {/* 5 - Asus */}
@@ -106,7 +106,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/Asus" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={AsusC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={AsusC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收ASUS Vivo Book, Zenbook, ExpertBook 等電子產品" />
                 </div>
             </div>
             {/* 6 - MSI */}
@@ -117,7 +117,7 @@ export const Type = () => {
                 </p>
                 <Link to="/type/MSI" className="rounded-3xl px-3 bg-gray-400 text-white hover:bg-gray-700"><span>了解更多</span></Link>
                 <div className="pt-2 md:pt-5 justify-center" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <img src={MSIC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="" />
+                    <img src={MSIC} style={{ width: 'auto', height: '200px' ,objectFit: 'scale-down' }} alt="二手回收MSI Vector 18 HX, Stealth 16, Raider 18 HX, Summit 13等電子產品" />
                 </div>
             </div>
         </div>

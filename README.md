@@ -1,3 +1,8 @@
+## Google Tag Manager
+    - Added GTM not AW 
+    - Track Whatsapp button (not yet)
+
+
 ## React install
 
 "react": "^19.1.0",
@@ -20,7 +25,7 @@
     npm install react-icons
 
 
-## Create Sitemap
+## Create Sitemap & robots
 
     your-react-project/
     ├── public/

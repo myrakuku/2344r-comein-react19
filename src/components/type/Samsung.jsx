@@ -20,7 +20,7 @@ export const SamsungCollection = () => {
         <img src={Samsung3} alt={"Comein 放售二手Samsung電腦產品"} style={{ objectFit: 'scale-down', width:'30%' }}></img>
     </div>
         <div className="pb-10 pt-5 px-10 sm:px-20 lg:px-30">
-            <h1 className="text-xl md:text-2xl lg:text-3xl font-bold  text-center pt-10">Samsung系列二手回收專家：香港旺角的電子產品回收服務</h1>
+            <h1 className="text-xl md:text-2xl lg:text-3xl font-bold  text-center pt-10">Samsung系列二手回收專家：香港旺角的電子產品回收服務</h1> 
             <div className="text-sm text-center">
                 <p className="">
                 在科技快速發展的今天，電子產品如手機、平板電腦和筆記本電腦的更新換代速度驚人。特別是Samsung的Galaxy系列產品，包括Galaxy Book、Galaxy Tab和Galaxy S手機，不僅性能強勁，而且設計優雅。不過，隨著新產品的推出，舊款設備的回收和再利用也變得越來越重要。如果您擁有Samsung系列的產品，為何不把它們交給我們進行回收？我們都能為您提供市場上最具競爭力的回收價格。

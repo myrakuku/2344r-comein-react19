@@ -1,3 +1,4 @@
+// scripts/sitemap-generator.js
 const fs = require('fs');
 
 const routes = [
@@ -43,4 +44,34 @@ ${urls}
   console.log(`📍 Generated ${routes.length} URLs for ${baseUrl}`);
 }
 
-module.exports = generateSitemap;
+function generateRobotsTxt() {
+  const baseUrl = 'https://comeinmacbook.com';
+  
+  const robotsContent = `# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+# 允許爬取所有頁面
+Allow: /
+
+# Sitemap 位置
+Sitemap: ${baseUrl}/sitemap.xml
+
+# 可選：針對特定搜索引擎的規則
+# User-agent: Googlebot
+# Allow: /
+
+# User-agent: Bingbot
+# Allow: /
+
+# 可選：爬取延遲（如果需要限制爬取頻率）
+# Crawl-delay: 1`;
+  
+  fs.writeFileSync('public/robots.txt', robotsContent);
+  console.log('✅ Robots.txt generated successfully!');
+  console.log('🔓 All pages are allowed for crawling');
+}
+
+module.exports = {
+  generateSitemap,
+  generateRobotsTxt
+};

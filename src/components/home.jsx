@@ -39,8 +39,8 @@ export const Home = () => {
                     
                 </p>
                 <div className='pt-5 flex justify-center gap-5'>
-                    <img src={store_1} alt={"Comein retail store picture"} width={200} height={300}></img>
-                    <img src={store_2} alt={"Comein retail store picture"} width={200} height={300}></img>
+                    <img src={store_1} alt={"Comein retail store"} width={200} height={300}></img>
+                    <img src={store_2} alt={"Comein retail store"} width={200} height={300}></img>
                 </div>
             </div>
         </div>
