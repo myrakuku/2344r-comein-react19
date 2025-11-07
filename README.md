@@ -1,7 +1,10 @@
+## News.tsx
+update: 2025.11.7 (git by myra)
+
+
 ## Google Tag Manager
     - Added GTM not AW 
     - Track Whatsapp button > go to Google Tag manager page
-
 
 ## React install
 
@@ -11,7 +14,6 @@
 
     npm install react@19.1 react-dom@19.1
     npm install react-router-dom
-
 
 ## Tailwind CSS
 
