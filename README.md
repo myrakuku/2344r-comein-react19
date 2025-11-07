@@ -1,6 +1,6 @@
 ## Google Tag Manager
     - Added GTM not AW 
-    - Track Whatsapp button
+    - Track Whatsapp button > go to Google Tag manager page
 
 
 ## React install
