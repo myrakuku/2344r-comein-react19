@@ -2,19 +2,19 @@
 const fs = require('fs');
 
 const routes = [
-  { path: '/', priority: '1.0', changefreq: 'daily' },
-  { path: '/type', priority: '0.9', changefreq: 'weekly' },
-  { path: '/process', priority: '0.8', changefreq: 'monthly' },
-  { path: '/ps', priority: '0.8', changefreq: 'monthly' },
-  { path: '/news', priority: '0.9', changefreq: 'daily' },
-  { path: '/about', priority: '0.7', changefreq: 'monthly' },
-  { path: '/faq', priority: '0.8', changefreq: 'monthly' },
-  { path: '/type/Apple', priority: '0.9', changefreq: 'weekly' },
-  { path: '/type/Asus', priority: '0.9', changefreq: 'weekly' },
-  { path: '/type/Samsung', priority: '0.9', changefreq: 'weekly' },
-  { path: '/type/Lenovo', priority: '0.9', changefreq: 'weekly' },
-  { path: '/type/Razer', priority: '0.9', changefreq: 'weekly' },
-  { path: '/type/MSI', priority: '0.9', changefreq: 'weekly' }
+  { path: '/', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type', priority: '0.5', changefreq: 'yearly' },
+  { path: '/process', priority: '0.5', changefreq: 'yearly' },
+  { path: '/ps', priority: '0.5', changefreq: 'yearly' },
+  { path: '/news', priority: '0.5', changefreq: 'yearly' },
+  { path: '/about', priority: '0.5', changefreq: 'yearly' },
+  { path: '/faq', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/Apple', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/Asus', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/Samsung', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/Lenovo', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/Razer', priority: '0.5', changefreq: 'yearly' },
+  { path: '/type/MSI', priority: '0.5', changefreq: 'yearly' }
 ];
 
 function generateSitemap() {
@@ -30,8 +30,8 @@ function generateSitemap() {
   </url>`
   ).join('\n');
   
-  const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
+  const sitemapContent = `<?xml version="0.5" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.5">
 ${urls}
 </urlset>`;
 
