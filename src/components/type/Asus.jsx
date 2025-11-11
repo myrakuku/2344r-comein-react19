@@ -8,10 +8,8 @@ import Asus3 from "../image/Brand_Collection/Asus/Asus_3.jpeg"
 export const AsusCollection = () => {
   return (
     <>
-    <title>Comein |香港專業高價回收電子產品 | 旺角二手回收Asus專家</title>
-    <meta name="author" content="Comein" />
-    <meta name="keywords" content="Price, iphone 16, iphone 17, iphone 17 pro, iphone 17 air, Macbook, Macbook Pro, Macbook Air, Macbook M5, Macbook M4, ipad pro, apple, 旺角二手, 二手Macbook, 二手iPhone, 二手回收, 二手電子產品回收, iPhone 回收, iPad 回收, 舊手機回收, 舊平板回收, Sin Tat Plaza, Apple iphone 11 pro max, iphone 16e, iphone pro max 17, 設備狀況評估, 數據抹除, 設備升級/更新, 保修和服務, 可持續發展, 環保意識, 電子廢物, Comein macbook, 旺角二手回收, 先達二手回收, 專業回收, 星際二手回收, 高價回收, 高價" />
-    <meta name="description" content="Comein 專業高價回收Vivo Book、Zenbook、ExpertBook等各類二手電子產品，高價回收！香港門市或上門回收，安全快速交易。在尋找二手回收的最佳解決方案嗎？我們提供專業的電子產品回收服務，包括iPhone回收、iPad回收、舊手機回收和舊平板回收。無論您是想要更新設備，還是處理不再使用的電子產品，我們都能幫助您輕鬆回收舊設備，讓環保與實惠兼得。立即聯繫我們，開始您的回收旅程！" />
+    <title>旺角ASUS筆電變現首選 | Comein極速估價 現場付款 | 專收香港各型號華碩筆電</title>
+    <meta name="description" content="閒置的華碩筆電無需在角落積灰，它們是待盤活的資產。Comein提供最流暢的回收體驗，針對Vivobook、Zenbook等系列，我們提供快速估價與即刻付款服務，是您輕鬆變現、騰出空間的高效途徑。元朗 天水圍 屯門 元天屯上門回收。" />
 
     <Nav/>
     <div className='pt-5 flex justify-center'>

@@ -11,13 +11,11 @@ export const Home = () => {
   return (
     <>  
     <title>Comein |香港專業高價回收電子產品 | 回收Apple、Lenovo、Samsung 等大量品牌</title>
-    <meta name="author" content="Comein" />
-    <meta name="keywords" content="Price, iphone 16, iphone 17, iphone 17 pro, iphone 17 air, Macbook, Macbook Pro, Macbook Air, Macbook M5, Macbook M4, ipad pro, apple, 旺角二手, 二手Macbook, 二手iPhone, 二手回收, 二手電子產品回收, iPhone 回收, iPad 回收, 舊手機回收, 舊平板回收, Sin Tat Plaza, Apple iphone 11 pro max, iphone 16e, iphone pro max 17, 設備狀況評估, 數據抹除, 設備升級/更新, 保修和服務, 可持續發展, 環保意識, 電子廢物, Comein macbook, 旺角二手回收, 先達二手回收, 專業回收, 星際二手回收, 高價回收, 高價" />
-    <meta name="description" content="Comein 專業高價回收 MacBook、iPhone、手機、電腦等各類二手電子產品，高價回收！香港門市或上門回收，安全快速交易。" />
+    <meta name="description" content="家中閒置的MacBook或iPhone，其實是待開發的潛在資產。Comein專注於為您的各類電子設備提供高效兌現管道，無論是親臨香港門市或選擇上門回收，我們都能確保整個變現流程安全又流暢，讓您的舊設備迅速轉為實質收益。元朗 天水圍 屯門 屯元天上門回收。" />
     
       <Nav/>
       <main className="">
-            <img src={banner} width={1200} height={600} layout="responsive" className="w-full h-auto" alt="Comein banner Apple product collection iphone Macbook" />
+            <img src={banner} width={1200} height={600} layout="responsive" className="w-full h-auto" alt="Apple高價回收/收購二手Macbook/二手iPhone/二手iPad/二手MacMini/二手MacStudio/二手Mac Pro/二手VisionPro/二手iWatch/二手AirPodsPro立即預約門市/上門回收" />
         </main>
         <div className="pb-10">
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold  text-center pt-10">高價回收各類電子產品</h1>
@@ -39,8 +37,8 @@ export const Home = () => {
                     
                 </p>
                 <div className='pt-5 flex justify-center gap-5'>
-                    <img src={store_1} alt={"Comein retail store"} width={200} height={300}></img>
-                    <img src={store_2} alt={"Comein retail store"} width={200} height={300}></img>
+                    <img src={store_1} alt={"旺角回收二手Macbook星際城市/旺角先達ComeIn實體店"} width={200} height={300}></img>
+                    <img src={store_2} alt={"價高二手手機收購或回收即時結數的門市圖"} width={200} height={300}></img>
                 </div>
             </div>
         </div>

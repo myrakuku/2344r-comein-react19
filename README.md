@@ -1,10 +1,12 @@
+## Google Meta
+update: 2025.11.10 (only title & description with natural writing)
+
 ## News.tsx
-update: 2025.11.7 (git by myra)
+update: 2025.11.7 
 
 
 ## Google Tag Manager
-    - Added GTM not AW 
-    - Track Whatsapp button > go to Google Tag manager page
+    - Added GTM 
 
 ## React install
 

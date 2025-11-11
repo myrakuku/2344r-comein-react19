@@ -6,10 +6,8 @@ import Window from '../components/image/Window.jpeg';
 export const Process = () => {
   return (
     <>
-    <title>香港電子產品回收流程 3步快速賣機 | Comein 高價現金收購 iPhone、MacBook</title>
-    <meta name="author" content="Comein" />
-    <meta name="keywords" content="Price, iphone 16, iphone 17, iphone 17 pro, iphone 17 air, Macbook, Macbook Pro, Macbook Air, Macbook M5, Macbook M4, ipad pro, apple, 旺角二手, 二手Macbook, 二手iPhone, 二手回收, 二手電子產品回收, iPhone 回收, iPad 回收, 舊手機回收, 舊平板回收, Sin Tat Plaza, Apple iphone 11 pro max, iphone 16e, iphone pro max 17, 設備狀況評估, 數據抹除, 設備升級/更新, 保修和服務, 可持續發展, 環保意識, 電子廢物, Comein macbook, 旺角二手回收, 先達二手回收, 專業回收, 星際二手回收, 高價回收, 高價" />
-    <meta name="description" content="Comein 提供最便捷的香港電子產品回收服務！WhatsApp 即時估價，支持旺角門市或上門收機，專業檢測後立即以現金付款，高價回收 iPhone、Samsung、iPad 等二手設備。在尋找二手回收的最佳解決方案嗎？我們提供專業的電子產品回收服務，包括iPhone回收、iPad回收、舊手機回收和舊平板回收。無論您是想要更新設備，還是處理不再使用的電子產品，我們都能幫助您輕鬆回收舊設備，讓環保與實惠兼得。立即聯繫我們，開始您的回收旅程！" />
+    <title>香港電子產品回收流程 3步快速賣機 | Comein 高價現金收購 iPhone、MacBook 等多種品牌及產品</title>
+    <meta name="description" content="Comein重新定義電子產品回收的標準，為您提供極致便利與安心的雙重保證。我們整合了線上即時通訊的快捷與實體交易的可靠，無論您鍾愛何種方式，最終都能享受到專業檢測與即時現金付款的頂級服務，讓處理舊手機、平板成為一種輕鬆可靠的選擇。元朗 天水圍 屯門 元天屯上門回收。" />
 
     <Nav/>
     <main className="my-10 py-5">
@@ -37,7 +35,7 @@ export const Process = () => {
                             <br /><br />如Macbook取得規格方式：
                             <br />路徑：屏幕左上方Apple Logo 「關於本機」並截圖
                             <div className='py-3'>
-                            <img src={Macbook} width={0} height={0} sizes="100vw" alt={"MAC教學"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
+                            <img src={Macbook} width={0} height={0} sizes="100vw" alt={"MacBook回收流程顯示配置CPU/RAM/SSD/Inch/i5/i7/i9/M1/M2/M3/M4/M5/16/18/32/36/48/64/256/512/1T/2T/4T/8T"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
                             </div>
                         </div>
                     </div>
@@ -55,7 +53,7 @@ export const Process = () => {
                             <br />或左鍵點選「內容」查看「儲存空間」
                             <br />或透過：右鍵點選「內容」 {'>'}  「裝置管理員」 {'>'}  「顯示卡」以確認GPU型號
                             <div className='pt-3'>
-                            <img src={Window} width={0} height={0} sizes="100vw" alt={"WINDOW教學"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
+                            <img src={Window} width={0} height={0} sizes="100vw" alt={"二手Window機配置查看CPU/RAY/SSDi3/i5/i7/i9/16/512"} className="w-full md:w-[90%] lg:w-[50%] h-auto"></img>
                             </div>
                         </div>
                     </div>    

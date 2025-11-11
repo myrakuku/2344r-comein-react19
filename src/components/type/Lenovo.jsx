@@ -9,10 +9,8 @@ import Lenovo3 from '../image/Brand_Collection/Lenovo/Lenovo_3.jpg';
 export const LenovoCollection = () => {
   return (
     <>
-    <title>Comein |香港專業高價回收電子產品 | 旺角二手回收Lenovo專家</title>
-    <meta name="author" content="Comein" />
-    <meta name="keywords" content="Price, iphone 16, iphone 17, iphone 17 pro, iphone 17 air, Macbook, Macbook Pro, Macbook Air, Macbook M5, Macbook M4, ipad pro, apple, 旺角二手, 二手Macbook, 二手iPhone, 二手回收, 二手電子產品回收, iPhone 回收, iPad 回收, 舊手機回收, 舊平板回收, Sin Tat Plaza, Apple iphone 11 pro max, iphone 16e, iphone pro max 17, 設備狀況評估, 數據抹除, 設備升級/更新, 保修和服務, 可持續發展, 環保意識, 電子廢物, Comein macbook, 旺角二手回收, 先達二手回收, 專業回收, 星際二手回收, 高價回收, 高價" />
-    <meta name="description" content="Comein 專業高價回收Thinkpad、Thinkpad X1 Carbon、Thinkpad X1 Yoga、Thinkbook、ideapad Slim、ideapad Flex、Yoga、Legion等各類二手電子產品，高價回收！香港門市或上門回收，安全快速交易。在尋找二手回收的最佳解決方案嗎？我們提供專業的電子產品回收服務，包括iPhone回收、iPad回收、舊手機回收和舊平板回收。無論您是想要更新設備，還是處理不再使用的電子產品，我們都能幫助您輕鬆回收舊設備，讓環保與實惠兼得。立即聯繫我們，開始您的回收旅程！" />
+    <title>商務筆電資產變現專家 | Comein旺角高價收購Lenovo ThinkPad全系列 | X1 Carbon/X1 Yoga專收</title>
+    <meta name="description" content="您的ThinkPad不僅是工具，更是可靠的商業資產。Comein深刻理解ThinkPad X1 Carbon、X1 Yoga等系列的堅固品質與市場需求，我們提供專業的價值評估，助您高效處理閒置的商務筆電，實現資產的最佳變現。元朗 天水圍 屯門 元天屯上門回收。" />
 
     <Nav/>
     <div className='pt-5 flex justify-center'>

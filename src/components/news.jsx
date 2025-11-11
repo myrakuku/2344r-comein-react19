@@ -697,9 +697,7 @@ const Huawei_products = [
   return (
     <>
     <title>Comein 二手回收價目表｜ Apple蘋果 Huawei華為 Samsung三星 最新機型回收價格即時查詢</title>
-    <meta name="author" content="Comein" />
-    <meta name="keywords" content="Price, iphone 16, iphone 17, iphone 17 pro, iphone 17 air, Macbook, Macbook Pro, Macbook Air, Macbook M5, Macbook M4, ipad pro, apple, 旺角二手, 二手Macbook, 二手iPhone, 二手回收, 二手電子產品回收, iPhone 回收, iPad 回收, 舊手機回收, 舊平板回收, Sin Tat Plaza, Apple iphone 11 pro max, iphone 16e, iphone pro max 17, 設備狀況評估, 數據抹除, 設備升級/更新, 保修和服務, 可持續發展, 環保意識, 電子廢物, Comein macbook, 旺角二手回收, 先達二手回收, 專業回收, 星際二手回收, 高價回收, 高價, iPhone二手回收價,華為二手回收價格,Samsung回收價目表,二手手機回收,蘋果華為三星估價,舊機回收行情,手機回收平台,二手3C回收" />
-    <meta name="description" content="提供最新Apple蘋果、Huawei華為、Samsung三星全系列二手回收價格參考，涵蓋iPhone 15 Pro、Mate 60、Galaxy S24等熱門機型價格對比，快速估價，安心回收，立即查詢！" />
+    <meta name="description" content="提供最新Apple蘋果、Huawei華為、Samsung三星全系列二手回收價格參考，涵蓋iPhone 15 Pro、Mate 60、Galaxy S24等熱門機型價格對比，快速估價，安心回收，立即查詢！元朗 天水圍 屯門 元天屯上門回收。" />
 
     <Nav/>
     <div className="pb-10">
