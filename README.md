@@ -1,5 +1,6 @@
 ## Google Meta
 update: 2025.11.10 (only title & description with natural writing)
+update: 2026.3.12 (Add page discount.jsx, image discount.png, Upate Router App.js)
 
 ## News.tsx
 update: 2025.11.7 

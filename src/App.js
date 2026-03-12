@@ -7,6 +7,7 @@ import { Ps } from "./components/ps";
 import { News } from "./components/news";
 import { About } from "./components/about";
 import { FAQ } from "./components/faq";
+import { Discount } from "./components/discount";
 import { AppleCollection } from "./components/type/Apple";
 import { AsusCollection } from "./components/type/Asus";
 import { SamsungCollection } from "./components/type/Samsung";
@@ -26,6 +27,7 @@ const  App = () => {
               <Route path="/news" element={<News/>} />
               <Route path="/about" element={<About/>} />
               <Route path="/faq" element={<FAQ/>} />
+              <Route path="/discount" element={<Discount/>} />
 
               {/* otherbands path on type */}
               <Route path="/type/Apple" element={<AppleCollection/>} />
