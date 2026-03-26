@@ -1,26 +1,24 @@
-## Google Meta
-update: 2025.11.10 (only title & description with natural writing)
-update: 2026.3.12 (Add page discount.jsx, image discount.png, Upate Router App.js)
-
-## News.tsx
-update: 2025.11.7 
-
+## Update history
+    update: 2026.3.26 (About page add policy after google map)
+    update: 2026.3.12 (Add page discount.jsx, image discount.png, Upate Router App.js)
+    update: 2025.11.10 (only title & description with natural writing)
+    update: 2025.11.7  (News.tsx)
 
 ## Google Tag Manager
     - Added GTM 
 
 ## React install
 
-"react": "^19.1.0",
-"react-dom": "^19.1.0",
-"react-router-dom": "^6.30.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.1",
 
     npm install react@19.1 react-dom@19.1
     npm install react-router-dom
 
 ## Tailwind CSS
 
-"tailwindcss": "^3.4.18"
+    "tailwindcss": "^3.4.18"
 
     npm install -D tailwindcss@3
     npx tailwindcss init

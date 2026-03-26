@@ -2,6 +2,7 @@ import React from 'react';
 import { Nav } from "./items/Nav";
 import { GoogleMap } from "./items/GoogleMap";
 import { Icon } from "./items/icon";
+import Terms from "./items/Terms";
 
 export const About = () => {
   return (
@@ -34,6 +35,7 @@ export const About = () => {
             <Icon/>
         </div>
         <GoogleMap/>
+        <Terms/>
     </>
   );
 };
